@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Inputs X,Y.  Outputs Sum and Carry.  NO CarryIn.
 
 ## How to test
 
-Explain how to use your project
+Use DIP switches to set X and Y.  Look at LED A for Sum and LED B for CarryOut.
 
 ## External hardware
 
